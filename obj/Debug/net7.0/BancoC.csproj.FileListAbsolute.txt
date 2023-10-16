@@ -1,0 +1,14 @@
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\BancoC\bin\Debug\net7.0\BancoC.exe
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\BancoC\bin\Debug\net7.0\BancoC.deps.json
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\BancoC\bin\Debug\net7.0\BancoC.runtimeconfig.json
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\BancoC\bin\Debug\net7.0\BancoC.dll
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\BancoC\bin\Debug\net7.0\BancoC.pdb
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\BancoC\obj\Debug\net7.0\BancoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\BancoC\obj\Debug\net7.0\BancoC.AssemblyInfoInputs.cache
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\BancoC\obj\Debug\net7.0\BancoC.AssemblyInfo.cs
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\BancoC\obj\Debug\net7.0\BancoC.csproj.CoreCompileInputs.cache
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\BancoC\obj\Debug\net7.0\BancoC.dll
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\BancoC\obj\Debug\net7.0\refint\BancoC.dll
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\BancoC\obj\Debug\net7.0\BancoC.pdb
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\BancoC\obj\Debug\net7.0\BancoC.genruntimeconfig.cache
+D:\documentos\estudo\estudosDeC#\exercicios\SEÇÃO5\exercicio01\BancoC\obj\Debug\net7.0\ref\BancoC.dll

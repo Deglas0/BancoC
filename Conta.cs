@@ -3,24 +3,49 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace BancoC
 {
-    internal class Conta
+    internal class ContaBancaria
     {
-        private string _id;
-        public string Nome { get; set; }
+        public int Numero { get; private set; }
+        public string Titular { get; set; }
         public double Saldo { get; private set; }
-        public double Deposito { get; set; }
 
-        public Conta(string id, string nome, double deposito)
+        public ContaBancaria(int numero, string titular)
         {
-            _id = id;
-            Nome = nome;
-            Deposito = deposito;
+            Numero = numero;
+            Titular = titular;
         }
 
-        public string Id
-        { get { return _id; } }
+        public ContaBancaria(int numero, string titular, double depositoInicial) : this(numero, titular)
+        {
+            Deposito(depositoInicial);
+        }
+
+        public void Deposito(double quantia)
+
+        {
+            Saldo += quantia;
+        }
+
+        public void Saque(double quantia)
+        {
+            Saldo -= quantia;
+            Saldo -= 5.0;
+        }
+        public override string ToString()
+        {
+            return "Conta "
+                + Numero
+                + ", Titular: "
+                + Titular
+                + ", Saldo: $ "
+                + Saldo.ToString("f2", CultureInfo.InvariantCulture);
+        }
+
     }
+
+
 }
